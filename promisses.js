@@ -29,3 +29,5 @@ esperaAi("Buscando dados", rand(1, 3))
   });
 let dice = Math.round(Math.random * 20);
 console.log(dice);
+
+//mauro peloto de pikachu
